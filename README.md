@@ -1,3 +1,7 @@
+# curso-intensivo-react-next
+Projetos desenvolvidos durante o curso intensivo de React + Next do canal Cod3r Cursos
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
